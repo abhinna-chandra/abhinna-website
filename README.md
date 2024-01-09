@@ -1,2 +1,2 @@
 # abhinna-website
-A Career Website of Abhinna Biswal
+A Profile Website of Abhinna Biswal
