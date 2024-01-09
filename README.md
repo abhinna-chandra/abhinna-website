@@ -1,4 +1,4 @@
-# abhinna-portfolio-v2
+# abhinna-portfolio
 This is a Portfolio of Abhinna Chandra Biswal
 
-"# abhinna-portfolio-v2" 
+"# abhinna-portfolio" 
